@@ -18,6 +18,10 @@ def Print():
     b = 4
     c = a + b
     print(c, "am in function")
+    print(c, "am in function")
+    print(c, "am in function")
+    print(c, "am in function")
+    print(c, "am in function")
 
 Print()
 
