@@ -5,7 +5,7 @@ print(exponent, "exponent")
 Modulus = 10 % 10
 print(Modulus, "Modulus")
 
-integer_division  = 10 // 10
+integer_division = 10 // 10
 print(integer_division, "integer_division")
 
 Division = 10 / 10
@@ -27,11 +27,6 @@ print(Addition, "Addition")
 # 1 + 1 = right
 # 'str' + 'str' = right
 # 'Alice' * 5 = right
-
-print('Alice' * 5)
-print('newline\n' * 5) #for newline
-print(('newline' * 5, 'sameline' *  5,))
-
 
 
 # output
