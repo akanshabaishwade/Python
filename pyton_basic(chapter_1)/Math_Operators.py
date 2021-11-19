@@ -27,8 +27,10 @@ print(Addition, "Addition")
 # 1 + 1 = right
 # 'str' + 'str' = right
 # 'Alice' * 5 = right
+
 print('Alice' * 5)
-print('Alice\n' * 5) #for newline
+print('newline\n' * 5) #for newline
+print(('newline' * 5, 'sameline' *  5,))
 
 
 
