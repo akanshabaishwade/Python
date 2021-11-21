@@ -12,6 +12,9 @@ name = input("enter name: ")
 password = input("enter password: ")
 if name == name:
     print("hello", name)
+
+
+
 if password == "anshu":
     print("right password")
 else:
