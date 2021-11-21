@@ -5,7 +5,6 @@ print(exponent, "exponent")
 Modulus = 10 % 10
 print(Modulus, "Modulus")
 
-
 integer_division  = 10 // 10
 print(integer_division, "integer_division")
 
