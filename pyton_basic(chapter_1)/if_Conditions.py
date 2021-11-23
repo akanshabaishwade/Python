@@ -30,7 +30,6 @@ elif Class >= str(12):
 else:
     print("no sturdy")
 
-    
 
 # if four
 heyname = input("Enter your name: ")
