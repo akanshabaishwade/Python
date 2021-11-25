@@ -17,6 +17,8 @@ if password == "anshu":
 else:
     print("your password is wrong")
 
+    
+    
 # if three
 student = input("enter your name: ")
 Class = input("enter your class: ")
