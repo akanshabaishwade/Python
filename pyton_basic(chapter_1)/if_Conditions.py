@@ -19,6 +19,9 @@ else:
 
     
     
+    
+    
+    
 # if three
 student = input("enter your name: ")
 Class = input("enter your class: ")
