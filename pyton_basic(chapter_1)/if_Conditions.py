@@ -19,8 +19,7 @@ else:
 
     
     
-    
-    
+   
     
 # if three
 student = input("enter your name: ")
