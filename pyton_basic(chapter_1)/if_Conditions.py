@@ -18,8 +18,7 @@ else:
     print("your password is wrong")
 
     
-    
-   
+
     
 # if three
 student = input("enter your name: ")
