@@ -6,7 +6,6 @@ if a != 24:
     print("not equal to", a)
 else:
     print("else")
-
     
 # if two
 name = input("enter name: ")
