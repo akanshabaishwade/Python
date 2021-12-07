@@ -7,9 +7,7 @@ if a != 24:
 else:
     print("else")
     
-    
-    
-    
+   
     
     
     
