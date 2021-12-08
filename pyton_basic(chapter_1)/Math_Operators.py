@@ -20,9 +20,6 @@ print(subtract, "subtract")
 Addition = 10 + 10
 print(Addition, "Addition")
 
-
-
-
 # Extra
 
 # 'Alice' + 42  =  #wrong
