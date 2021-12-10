@@ -11,8 +11,6 @@ print(integer_division, "integer_division")
 Division = 10 / 10
 print(Division, "Division")
 
-
-
 Multiply= 10 * 10
 print(Multiply, "Multiply")
 
